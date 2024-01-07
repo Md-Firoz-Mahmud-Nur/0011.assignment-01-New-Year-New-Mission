@@ -1,0 +1,99 @@
+/* 1st Stage */
+.background-image {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    margin: 50px 140px;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+}
+
+#header-heading {
+    padding-top: 177px;
+    padding-left: 530px;
+    width: 259px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+#header-description {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    width: 632px;
+    height: 190px;
+    padding-top: 16px;
+    padding-left: 344px;
+    padding-bottom: 177px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* 2nd Stage */
+#discount {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding-left: 608px;
+    padding-top: 70px;
+    margin: 0px;
+}
+
+#discount-description {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 602px;
+    padding-top: 48px;
+    margin: 0px;
+}
+
+#all-catagory {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0px;
+    padding-top: 16px;
+    padding-left: 595px;
+}
+
+#Happy-new-year-vector {
+    width: 802px;
+    height: 500px;
+    margin: 0px;
+    padding-top: 48px;
+    padding-left: 400px;
+}
+
+/* welcome part */
+
+.welcome-bg-image {
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 120px 140px;
+
+}
+
+#midnight-party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    padding-left: 126px;
+    padding-top: 126px;
+    width: 642px;
+}
