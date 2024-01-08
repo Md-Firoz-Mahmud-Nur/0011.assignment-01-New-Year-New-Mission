@@ -170,12 +170,13 @@
     text-transform: capitalize;
 }
 
-#join-now{
+#join-now {
     margin: 0px;
     margin-right: 140px;
     padding-top: 48px;
     padding-left: 576px;
 }
+
 #join-now-button {
 
     display: inline-flex;
@@ -189,7 +190,8 @@
     height: 56px;
     width: 167px;
 }
-#join-text{
+
+#join-text {
     color: #FFF;
     text-align: center;
     font-family: Inter;
@@ -199,3 +201,88 @@
 }
 
 /* offer section */
+
+#flex-no-two {
+    display: flex;
+}
+
+.text-group {}
+
+.new-best-offer {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 224px;
+    margin: 0px;
+}
+
+.coming-soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 16px;
+    margin: 0px;
+}
+
+.coming-soon-descrption {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 393px;
+}
+
+.image-group {
+    position: relative;
+}
+
+.image-group-joy {
+    width: 367px;
+    height: 367px;
+    position: absolute;
+    margin: 50px;
+    margin-top: 120px;
+    padding-top: 120px;
+    flex-shrink: 0;
+    border-radius: 367px;
+    background: url(images/Ellipse\ 1.png);
+    background-repeat: no-repeat;
+}
+
+.red-ellipse {
+    width: 463px;
+    height: 463px;
+    position: absolute;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    box-sizing: border-box;
+    margin-top: 70px;
+}
+
+.year-group{
+    position:  ;
+    margin-left: 580px ;
+    margin-top: 120px;
+}
+
+.year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.year-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 276px;
+}
+#year-icon{
+    width: 140px;
+height: 140px;
+}
