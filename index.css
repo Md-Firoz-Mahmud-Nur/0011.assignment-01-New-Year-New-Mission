@@ -96,4 +96,105 @@
     padding-left: 126px;
     padding-top: 126px;
     width: 642px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
+
+#midnight-party-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    width: 697px;
+    padding-left: 126px;
+    padding-top: 24px;
+    margin-top: 0px;
+}
+
+#midnight-party-join {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 158px;
+    padding-top: 48px;
+    margin: 0px;
+
+}
+
+#flex {
+    display: flex;
+}
+
+#new-year {
+    align-items: center;
+    padding-top: 68px;
+    padding-left: 40px;
+    height: 465px;
+    width: 320px;
+}
+
+/* section event */
+
+#bg-color-event {
+    width: 1320px;
+    height: 482px;
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-top: 188px;
+}
+
+#bg-color-event-place {
+    text-align: center;
+    padding-top: 100px;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 56px;
+    width: 550px;
+    height: 170px;
+    padding-left: 385px;
+}
+
+#bg-color-event-place p {
+    margin: 0px;
+}
+
+.red {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+#join-now{
+    margin: 0px;
+    padding-top: 48px;
+    padding-left: 576px;
+}
+#join-now-button {
+
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: none;
+    background: #F00;
+    height: 56px;
+    width: 167px;
+}
+#join-text{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* offer section */
