@@ -414,8 +414,13 @@
     padding-top: 24px;
 }
 
+
 .six-image div {
     padding-right: 24px;
+    transition: transform .2s;
+}
+.six-image div:hover{
+    transform: scale(1.1);
 }
 
 #subs-bg {
